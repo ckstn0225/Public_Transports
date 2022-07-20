@@ -47,6 +47,8 @@ class Main {
         System.out.println("-----------------------------------");
         taxi.purchase();
         System.out.println("-----------------------------------");
+        taxi.filloil(50);
+        System.out.println("-----------------------------------");
 
     }
 
